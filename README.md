@@ -6,4 +6,4 @@
 
 好耶！把它改成多功能了，(*^▽^*)
 
-“一些photos.pdf”使用notion生成，[网址在这](https://www.notion.so/photos-fb69e6a1116c4e5fbedd319684c8962b)
+“一些photos.pdf”使用notion生成
