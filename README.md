@@ -1,5 +1,7 @@
 # 泠茵的网站！
 
+<meta charset="utf-8">
+
 嗯哼，完成了~
 
 网址见About！
