@@ -11,4 +11,4 @@
 
 因为不知道怎么了我的MarkdownPad2突然打不开重装都没用所以现在我用Typora嘻嘻
 
-ANOTHER WEBSITE:[冷茴的音乐仓库](https://lenghuiabc.github.io/)
+ANOTHER WEBSITE:[冷茴的音乐仓库](https://github.com/lenghuiabc/lenghuiabc.github.io)
